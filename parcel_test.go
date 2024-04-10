@@ -165,4 +165,3 @@ func TestGetByClient(t *testing.T) {
 		require.Equal(t, expectedParcel, parcel)
 	}
 }
-
